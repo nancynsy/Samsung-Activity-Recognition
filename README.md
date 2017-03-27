@@ -1,1 +1,2 @@
 # Samsung-Activity-Recognition
+The data set is originally from the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). The goal of this project is to Find a predictive model that uses as few features as possible to predict human activity. My team and I achieved 91% accuracy rate by taking 4 out of 561 features as the final result.
